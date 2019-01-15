@@ -8,3 +8,6 @@
 - Install this module in your drupal 8 site
 - Go to Structure > Block layout then position this block in e.g. the sidebar first region
 - Then you can click on the link in the sidebar to launch the modal
+
+### Attribution
+- [https://befused.com/drupal/modal-module](Based on this tutorial)
