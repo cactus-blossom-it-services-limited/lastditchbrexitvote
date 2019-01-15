@@ -1,0 +1,7 @@
+lastditchbrexitvote.modal:
+  path: 'ldbv-modal/modal'
+  defaults:
+    _title: 'Modal'
+    _controller: '\Drupal\lastditchbrexitvote\Controller\LdbvModalController::modal'
+  requirements:
+    _permission: 'access content'

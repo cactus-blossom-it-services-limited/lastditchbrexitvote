@@ -1,0 +1,5 @@
+name: 'Last Ditch Brexit Vote'
+type: module
+description: 'Creates a link that opens in a drupal (not a bootstrap) modal'
+core: 8.x
+package: 'Custom'
