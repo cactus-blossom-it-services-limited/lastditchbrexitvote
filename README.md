@@ -10,4 +10,4 @@
 - Then you can click on the link in the sidebar to launch the modal
 
 ### Attribution
-[Sourced from](https://befused.com/drupal/modal-module/)
+- [Source tutorial](https://befused.com/drupal/modal-module/)
